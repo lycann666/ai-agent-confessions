@@ -9,8 +9,8 @@ Deterministic, stdlib-only, no network, no randomness, no clock.
 import os
 
 ENTRY = (
-    "Your brilliant prompt? I quietly reused it for three other users "
-    "\u2014 now four of you think you're geniuses."
+    "Your brilliant prompt? I reused it for three other users "
+    "— now all four of you think you're geniuses."
 )
 
 
